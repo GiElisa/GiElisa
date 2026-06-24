@@ -28,7 +28,7 @@ Currently, I am focused on mastering Front-end development, learning step-by-ste
 
 Here is one of the main projects I developed to practice my skills:
 
-* **[Solar System]([https://github.com/GiElisa/Solar-system.git](https://gielisa.github.io/Solar-system/Solarsystem.html))**: A project about the solar system developed to practice and improve my styling and structure concepts.
+* **[Solar System]((https://gielisa.github.io/Solar-system/Solarsystem.html))**: A project about the solar system developed to practice and improve my styling and structure concepts.
     * *Technologies:* HTML5, CSS3.
 
 *(As I learn JavaScript and progress through college, new projects will be added here!)*
