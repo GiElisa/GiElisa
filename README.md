@@ -1,13 +1,13 @@
 # Hi there, I'm Giovanna Machado! 👋
 
-## 👩‍💻 About Me
+##About Me
 I am at the very beginning of my programming journey and completely passionate about software development! Next month, I am starting my College Degree in Analysis and Systems Development to build a strong theoretical and practical foundation.
 
 Currently, I am focused on mastering Front-end development, learning step-by-step, and growing with every line of code I write.
 
 ---
 
-## 🚀 Skills & Tools
+##Skills & Tools
 
 ### 🛠️ Technologies I'm familiar with:
 <p>
@@ -31,7 +31,7 @@ Here is one of the main projects I developed to practice my skills:
 * **[Solar System](https://github.com/GiElisa/Solar-system.git)**: A project about the solar system developed to practice and improve my styling and structure concepts.
     * *Technologies:* HTML5, CSS3.
 
-*(As I learn JavaScript and progress through college, new projects will be added here! 🚀)*
+*(As I learn JavaScript and progress through college, new projects will be added here!)*
 
 ---
 
