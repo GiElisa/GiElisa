@@ -6,7 +6,7 @@ I am at the very beginning of my programming journey and completely passionate a
 Currently, I am focused on mastering Front-end development, learning step-by-step, and growing with every line of code I write.
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GiElisa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img heiht="100em" src=https://github-readme-stats.vercel.app/api?username=GiElisa" https://github.com/GiElisa/github-readme-stats>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top=langs?username=GiElisa&layouts=compact&langs_count=16&theme=dracula"/>
 </div>
 
