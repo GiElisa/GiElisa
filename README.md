@@ -5,6 +5,11 @@ I am at the very beginning of my programming journey and completely passionate a
 
 Currently, I am focused on mastering Front-end development, learning step-by-step, and growing with every line of code I write.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiElisa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top=langs?username=GiElisa&layouts=compact&langs_count=16&theme=dracula"/>
+</div>
+
 ---
 
 ## Skills & Tools
